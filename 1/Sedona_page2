@@ -1,0 +1,67 @@
+<!DOCTYPE htlm>
+<htlm lang ="ru">
+<Head>
+<a>
+<img/index-logo.svg" alt Логотип City of Sedona>
+</a>
+<a>
+<ul>
+<li><a href="blank.htlm">ИНФОРМАЦИЯ</a></li>
+<li><a href="blank.htlm">ФОТО И ВИДЕО</a></li>
+<li><a href="blank.htlm">КАРТА ШТАТА</a></li>
+<li><a href="сatalog.htlm">ГОСТИНИЦЫ</a></li>
+</ul>
+</a>
+<a href="blank htlm">
+<section>
+<Header>
+<section>
+<img srs=https:// amara resort&spa catalog>
+<li><a AMARA RESORT&SPA<br> ГОСТИНИЦА ОТ 4000Р.</li>
+</section>
+<section>
+<li><a5 звезд<br>РЕЙТИНГ 8,5</li>
+</section>
+<section>
+<button type="button"ПОДРОБНЕЕ</button>
+<button type="button"ЗАБРОНИРОВАТЬ</button>
+</section>
+<li><a DESERT QUAIL INN<br> МОТЕЛЬ ОТ 3000Р.</li>
+</section>
+<section>
+<li><a 3 звезды<br>РЕЙТИНГ 8,9</li>
+</section>
+<section>
+<button type="button"ПОДРОБНЕЕ</button>
+<button type="button"ЗАБРОНИРОВАТЬ</button>
+</section>
+/section>
+<li><a VILLAS AT POCO DIABLO<br> АПАРТАМЕНТЫ ОТ 2000Р.</li>
+</section>
+<section>
+<li><a 2 звезды<br>РЕЙТИНГ 9,2</li>
+</section>
+<section>
+<button type="button"ПОДРОБНЕЕ</button>
+<button type="button"ЗАБРОНИРОВАТЬ</button>
+</section>
+<footer>
+<section>
+<p> #VISITESEDONA <br> ТЕЛ.: +7(495)660-01-66 </p>
+</section>
+<section>
+<li> Давайте знакомиться></li>
+<ul>
+<li><a href "#">В контакте</a>
+</li>
+<li><a href "#">Фейсбук</a>
+</li>
+<li><a href "#">Инстаграм</a>
+</li>
+</ul>
+</section>
+<p>
+WEBSITE by <a href "http//htlmacademy.ru>HTLM Academy </a>
+</p>
+</footer>
+</htlm>
